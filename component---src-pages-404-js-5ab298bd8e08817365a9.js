@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmatias_huapaya_portfolio=self.webpackChunkmatias_huapaya_portfolio||[]).push([[883],{429:function(e,t,a){a.r(t);var l=a(7294),n=a(8183);t.default=()=>l.createElement("div",{className:"full-for-center"},l.createElement("div",{className:"center"},l.createElement(n.Z,{title:"404: Not found"}),l.createElement("h1",null,"404: Not found"),l.createElement("p",null,"This page does not exist... oops.")))}}]);
+//# sourceMappingURL=component---src-pages-404-js-5ab298bd8e08817365a9.js.map
